@@ -6,7 +6,7 @@
     "version" : "1.0"
   },
   "servers" : [ {
-    "url" : "https://guu84124.live.dynatrace.com/api/v1",
+    "url" : "https://random.dynatrace.com/api/v1",
     "variables" : { }
   } ],
   "tags" : [ {
